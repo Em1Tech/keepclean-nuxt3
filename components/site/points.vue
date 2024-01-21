@@ -76,7 +76,7 @@
    .points_card p {
       font-size: 14px;
       font-weight: 400;
-      color: #b4b4b4;
+      color: #6b6b6b;
       text-align: start;
    }
    
