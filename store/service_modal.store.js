@@ -99,7 +99,7 @@ export const useServiceModal = defineStore('service_modal', {
             },
             {
                question: "How do I contact Keep Clean for inquiries or to schedule services?",
-               answer: "You can reach us through our website's contact form, email, WhatsApp or call. Our friendly team is ready to assist you with any questions or service requests.",
+               answer: "You can reach us through our email, WhatsApp, Instagram or call. Our friendly team is ready to assist you with any questions or service requests.",
                state: false
             },
             {

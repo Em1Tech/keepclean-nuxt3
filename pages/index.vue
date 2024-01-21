@@ -166,7 +166,7 @@
       <div class="contact_us">
         <div class="contact_text">
           <span>CONTACT US</span>
-          <h2>HOW CAN WE HELP U??</h2>
+          <h2>HOW CAN WE HELP YOU??</h2>
           <p>
             If you're looking for additional information, wish to discuss an
             enquiry or want to chat about your service needs, you've come to the
@@ -244,12 +244,12 @@
           </div>
         </div>
 
-        <div class="contact_form">
+        <!-- <div class="contact_form">
           <input type="text" placeholder="First Name" />
           <input type="text" placeholder="E-mail" />
           <textarea placeholder="Message"></textarea>
           <button type="submit">Send Message</button>
-        </div>
+        </div> -->
       </div>
     </div>
 
