@@ -13,4 +13,4 @@ jobs:
         username: ${{ secrets.USERNAME }}
         key: ${{ secrets.SSH_PRIVATE_KEY }}
         port: ${{ secrets.PORT }}
-        script: cd /home/emidio/workplace/keepclean-nuxt3 && docker compose up --build -d
+        script: cd /home/emidio/workplace/keepclean-nuxt3 && git fetch && git pull && docker compose up --build -d
